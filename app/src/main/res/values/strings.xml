@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QRCode Yuyun</string>
+    <string name="scan_qrcode">Scan QRCode</string>
+    <string name="nama">Nama</string>
+    <string name="xyz">xyz</string>
+    <string name="kelas">Kelas</string>
+    <string name="zyx">zyx</string>
+    <string name="nim">NIM</string>
+    <string name="_00000">00000</string>
+</resources>
